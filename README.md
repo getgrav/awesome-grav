@@ -29,6 +29,10 @@
 
 - [Configure SMTP to send Email in Grav CMS](http://www.peaceofmindwebsite.com/tutorials/configure-smtp-to-send-email-in-grav-cms) (Apr 2017)
 
+#### Grav in Education
+
+- [Grav CMS Open Education Resource Projects](http://learn.hibbittsdesign.org/) (skeletons and tutorials)
+
 #### Video Tutorials
 
 - [Introduction and Basics of Grav Flat File CMS](https://www.youtube.com/watch?v=USoq8MOOKhI) (Oct 2016)
