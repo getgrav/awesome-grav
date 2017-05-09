@@ -38,6 +38,8 @@
 - [Introduction and Basics of Grav Flat File CMS](https://www.youtube.com/watch?v=USoq8MOOKhI) (Oct 2016)
 - [Learn How to Develop Websites With Grav in Less Than 1 Week](http://grav-tuts.teachable.com/) 
 - [Introduction To Grav | A Modern Flat-File CMS](https://www.youtube.com/watch?v=L2gyq5GvDLE) (Sep 2014)
+- [GitSync: Up and running in 2 mins](https://www.youtube.com/watch?v=avcGP0FAzB8) (Dec 2016)
+- [GitSync: 2-way Sync Demonstration](https://www.youtube.com/watch?v=3fy78afacyw) (Dec 2016)
 
 ## Migrating
 
