@@ -1,4 +1,4 @@
-# awesome-grav
+# Awesome Grav Stuff
 
 > A curated list of awesome stuff to do with [Grav](https://getgrav.org/)
 
