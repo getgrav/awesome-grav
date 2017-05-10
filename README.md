@@ -4,6 +4,7 @@
 
 - [Resources](#resources)
 - [Tutorials](#tutorials)
+- [Plugins](#plugins)
 - [Migrating](#migrating)
 - [UI-Frameworks](#ui-frameworks)
 
@@ -26,11 +27,14 @@
 - [Starting a Flat File Blog with Grav CMS](https://www.html5andbeyond.com/starting-a-flat-file-blog-with-grav-cms/) (Jun 2015)
 - [Install and Configure Grav CMS on Ubuntu 16.04](https://hostpresto.com/community/tutorials/install-and-configure-grav-cms-on-ubuntu-16-04/) (Nov 2016)
 - [Building Faster Websites with Grav, a Modern Flat-file CMS](https://www.sitepoint.com/building-faster-websites-with-grav-a-modern-flat-file-cms/) (Mar 2016)
+- [Grav Development with GitHub Post Hooks](https://getgrav.org/blog/developing-with-github-part-1) (Nov 2014)
+- [Turbo Charge Grav with a CDN](https://getgrav.org/blog/turbo-charge-grav-with-a-cdn) (April 2015)
 
 #### Specific setups
 
 - [Configure SMTP to send Email in Grav CMS](http://www.peaceofmindwebsite.com/tutorials/configure-smtp-to-send-email-in-grav-cms) (Apr 2017)
 - [Grav: Creating a user with Editor Role](http://blog.netgloo.com/2016/10/04/grav-creating-user-with-editor-role/) (Oct 2016)
+- [Raspberry Pi Dev Setup with Nginx & PHP7](https://getgrav.org/blog/raspberrypi-nginx-php7-dev)
 
 #### Grav in Education
 
@@ -46,6 +50,10 @@
 
 #### Commercial (For-fee) Courses
 - [Up and Running With Grav CMS](https://webdesign.tutsplus.com/courses/up-and-running-with-grav-cms?ec_promo=teaser_post_long) (Mar 2017)
+
+## Plugins
+
+- [GitSync Plugin Overview](https://getgrav.org/blog/git-sync-plugin) (Dec 2016)
 
 ## Migrating
 
