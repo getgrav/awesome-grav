@@ -29,6 +29,7 @@
 #### Specific setups
 
 - [Configure SMTP to send Email in Grav CMS](http://www.peaceofmindwebsite.com/tutorials/configure-smtp-to-send-email-in-grav-cms) (Apr 2017)
+- [Grav: Creating a user with Editor Role](http://blog.netgloo.com/2016/10/04/grav-creating-user-with-editor-role/) (Oct 2016)
 
 #### Grav in Education
 
