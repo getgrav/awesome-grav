@@ -25,6 +25,7 @@
 - [Build a Flat-File Website with Grav CMS](https://webdesignledger.com/grav-cms/) (Oct 2015)
 - [Starting a Flat File Blog with Grav CMS](https://www.html5andbeyond.com/starting-a-flat-file-blog-with-grav-cms/) (Jun 2015)
 - [Install and Configure Grav CMS on Ubuntu 16.04](https://hostpresto.com/community/tutorials/install-and-configure-grav-cms-on-ubuntu-16-04/) (Nov 2016)
+- [Building Faster Websites with Grav, a Modern Flat-file CMS](https://www.sitepoint.com/building-faster-websites-with-grav-a-modern-flat-file-cms/) (Mar 2016)
 
 #### Specific setups
 
@@ -41,6 +42,9 @@
 - [Introduction To Grav | A Modern Flat-File CMS](https://www.youtube.com/watch?v=L2gyq5GvDLE) (Sep 2014)
 - [GitSync: Up and running in 2 mins](https://www.youtube.com/watch?v=avcGP0FAzB8) (Dec 2016)
 - [GitSync: 2-way Sync Demonstration](https://www.youtube.com/watch?v=3fy78afacyw) (Dec 2016)
+
+#### Commercial (For-fee) Courses
+- [Up and Running With Grav CMS](https://webdesign.tutsplus.com/courses/up-and-running-with-grav-cms?ec_promo=teaser_post_long) (Mar 2017)
 
 ## Migrating
 
