@@ -64,7 +64,8 @@
 
 - [ZURB Foundation starter](https://github.com/core77/grav-theme-foundation) (Sass, Gulp, BrowserSync.io)
 
-## Reviews, Case-studies and Tests
+## Reviews, Case-studies, Examples and Tests
 
 - [How we rebuilt busuu.com — A Front-end Case Study](https://tech.busuu.com/how-we-rebuilt-busuu-com-a-front-end-case-study-a9c88e30020a)
 - [So....What happens when I attempt to load 30,000 pages into grav. Out of memory error?](https://github.com/getgrav/grav/issues/1099)
+- [How to get started with VueJS and Grav - A plugin example](https://github.com/ash0080/grav-plugin-vue-example)
