@@ -9,6 +9,7 @@
 - [Migrating](#migrating)
 - [UI-Frameworks](#ui-frameworks)
 - [Reviews, Case-studies and Tests](#reviews-case-studies-and-tests)
+- [Editor Tools](#editor-tools)
 - [Mentions](#mentions)
 
 ## Resources
