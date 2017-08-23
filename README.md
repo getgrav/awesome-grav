@@ -39,6 +39,7 @@
 - [Configure SMTP to send Email in Grav CMS](http://www.peaceofmindwebsite.com/tutorials/configure-smtp-to-send-email-in-grav-cms) (Apr 2017)
 - [Grav: Creating a user with Editor Role](http://blog.netgloo.com/2016/10/04/grav-creating-user-with-editor-role/) (Oct 2016)
 - [Raspberry Pi Dev Setup with Nginx & PHP7](https://getgrav.org/blog/raspberrypi-nginx-php7-dev)
+- [Sample config for running Grav on Platform.sh](https://gist.github.com/mikecrittenden/f52351e3623dc3433af901946e29f2e9)
 
 #### Grav in Education
 
@@ -51,6 +52,7 @@
 - [Introduction To Grav | A Modern Flat-File CMS](https://www.youtube.com/watch?v=L2gyq5GvDLE) (Sep 2014)
 - [GitSync: Up and running in 2 mins](https://www.youtube.com/watch?v=avcGP0FAzB8) (Dec 2016)
 - [GitSync: 2-way Sync Demonstration](https://www.youtube.com/watch?v=3fy78afacyw) (Dec 2016)
+- [Intro and Demo of Grav](https://www.youtube.com/watch?v=Mg7ZIK6Xmos) (July 2017)
 
 #### Commercial (For-fee) Courses
 - [Up and Running With Grav CMS](https://webdesign.tutsplus.com/courses/up-and-running-with-grav-cms?ec_promo=teaser_post_long) (Mar 2017)
