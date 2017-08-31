@@ -59,6 +59,7 @@
 
 ## Plugins
 
+- [Grav Shopping Cart](https://gravcart.com) (Aug 2017)
 - [GitSync Plugin Overview](https://getgrav.org/blog/git-sync-plugin) (Dec 2016)
 
 ## Migrating
