@@ -79,6 +79,7 @@
 ## Editor Tools
  
 - [PHPStorm/IntelliJ Grav Support Plugin](https://github.com/PioBeat/GravSupport)
+- [Visual Studio Code Twig Language Extension](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language)
 
 ## Mentions
 
