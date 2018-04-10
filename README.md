@@ -6,6 +6,7 @@
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Plugins](#plugins)
+- [Themes and Skeletons](#themes-and-skeletons)
 - [Migrating](#migrating)
 - [UI-Frameworks](#ui-frameworks)
 - [Reviews, Case-studies and Tests](#reviews-case-studies-and-tests)
@@ -61,6 +62,11 @@
 
 - [Grav Shopping Cart](https://gravcart.com) (Aug 2017)
 - [GitSync Plugin Overview](https://getgrav.org/blog/git-sync-plugin) (Dec 2016)
+
+## Themes & Skeletons
+
+- [Themes](https://getgrav.org/downloads/themes)
+- [Skeletons](https://getgrav.org/downloads/skeletons)
 
 ## Migrating
 
