@@ -45,6 +45,10 @@
 
 - [Grav CMS Open Education Resource Projects](http://learn.hibbittsdesign.org/) (skeletons and tutorials)
 
+#### Optimization
+
+- [Optimizing a Grav-Installation: Aggressively chasing performance gains](https://olevik.me/writing/code/optimizing-a-grav-installation) (Jun 2017)
+
 #### Video Tutorials
 
 - [Introduction and Basics of Grav Flat File CMS](https://www.youtube.com/watch?v=USoq8MOOKhI) (Oct 2016)
