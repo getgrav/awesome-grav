@@ -8,7 +8,7 @@
 - [Plugins](#plugins)
 - [Themes and Skeletons](#themes-and-skeletons)
 - [Migrating](#migrating)
-- [UI-Frameworks](#ui-frameworks)
+- [Integrations](#integrations)
 - [Reviews, Case-studies and Tests](#reviews-case-studies-and-tests)
 - [Editor Tools](#editor-tools)
 - [Mentions](#mentions)
@@ -76,7 +76,13 @@
 
 - [Grav CMS for Drupal developers](http://mikecr.it/ramblings/grav-cms-for-drupal-developers) (May 2017)
 
-## UI-Frameworks
+## Integrations
+
+#### With other toolsets and stacks
+
+- [Grav as Headless CMS Tied to Gatsby with GraphQL Schema](https://snipcart.com/blog/react-graphql-grav-cms-headless-tutorial)
+
+#### UI-Frameworks
 
 - [ZURB Foundation starter](https://github.com/core77/grav-theme-foundation) (Sass, Gulp, BrowserSync.io)
 
