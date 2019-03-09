@@ -22,6 +22,10 @@
   - [Troubleshooting](https://learn.getgrav.org/troubleshooting)
   - [Migration](https://learn.getgrav.org/migration)
 
+#### Twig Resources
+
+- [Twig (2.x) Documentation](https://twig.symfony.com/doc/2.x/)
+
 ## Tutorials
 
 #### General usage and setup
